@@ -1,0 +1,20 @@
+# import turtle
+# oleg = turtle.Turtle()
+# oleg.speed(0)
+
+# def draw_square(side):
+#     for i in range(4):
+#         oleg.forward(side)
+#         oleg.right(90)
+# side = 5
+# oleg.setheading(180)
+# for i in range(50):
+#     draw_square(side)
+#     side = side * 5
+# def show_value(quantity):
+#     print(quantity)
+#
+# show_value(12)
+def half(number):
+    print(number)
+half(20 / 2)
